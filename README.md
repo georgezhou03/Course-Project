@@ -1,2 +1,2 @@
-# Cleaning-Agents
-A Java Application focusing on the searching of cleaning agents in a foreign country.
+# Course-Project
+This repository is the course project I contributed in Fachhochschule Luebeck.
